@@ -1,11 +1,9 @@
-# MY PORTFOLIO REPOSITORY: RAW DATA
+# REPOSITORY: SOME RAW DATA
 
-My Raw Data repository with some data sources.
-
+Repository with some raw data sources.
 
 ## RAW DATA LIST
 
-Types of raw data:
-
-- CSV FILE with Countries
-- CSV FILE with Currencies
+Raw dataset list:
+[X] Countries (format csv)
+[x} Currencies (format csv)
