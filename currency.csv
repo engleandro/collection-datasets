@@ -1,4 +1,4 @@
-Entity Currency AlphabeticCode NumericCode MinorUnit WithdrawDate
+entity,currency,alphabetic_code,numeric_code,minor_unit,with_draw_date
 AFGHANISTAN,Afghani,AFN,971,2,
 ÅLAND ISLANDS,Euro,EUR,978,2,
 ALBANIA,Lek,ALL,8,2,
